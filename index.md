@@ -24,4 +24,4 @@ A simple digital clock made using DS1307 and Arduino Nano (in < Rs.500/-)
 
 ***
 
-## ![Home](https://cdn3.iconfinder.com/data/icons/seo-marketing-41/64/x-14-64.png) Home
+## [HOME - pa1tech.github.io](https://pa1tech.github.io/)
