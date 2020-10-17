@@ -1,6 +1,6 @@
 A simple digital clock made using DS1307 and Arduino Nano (in < Rs.500/-)
 
-![Clock](media/photo1.jpg "Clock")
+![Clock](media/photo1.jpg "Clock") ![Clock](media/photo2.jpg "Clock")
 
 **Schematic:**
 ![Schematic](schematic.jpg "Clock")

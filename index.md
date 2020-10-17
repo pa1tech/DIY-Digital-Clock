@@ -1,7 +1,7 @@
 A simple digital clock made using DS1307 and Arduino Nano (in < Rs.500/-)
 
 <figure class="video_container">
-  <video muted width="320" height="180" controls="true" allowfullscreen="true">
+  <video muted width="480" height="270" controls="true" allowfullscreen="true">
     <source src="media/video.mp4" type="video/mp4">
   </video>
 </figure>
