@@ -10,7 +10,8 @@ A simple digital clock made using DS1307 and Arduino Nano (in < Rs.500/-)
 
 ![Schematic](schematic.jpg "Clock")
 
-Capacitive Dropper Circuit: 
+* Capacitive Dropper Circuit: 
+
 <img src="https://pa1tech.github.io/DIY-Digital-Clock/media/power.jpg" />
 
 * ### [Arduino Code](https://github.com/pa1tech/DIY-Digital-Clock/tree/main/Arduino%20Code)
