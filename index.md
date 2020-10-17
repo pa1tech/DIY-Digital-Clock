@@ -6,7 +6,8 @@ A simple digital clock made using DS1307 and Arduino Nano (in < Rs.500/-)
   </video>
 </figure>
 
-* ## <a href="https://pa1tech.github.io/DIY-Digital-Clock/schematic.pdf" target="_blank">Schematic PDF version</a>
+* ## <a href="https://pa1tech.github.io/DIY-Digital-Clock/schematic.pdf" target="_blank">Schematic (PDF)</a>
+* ### <a href="https://pa1tech.github.io/DIY-Digital-Clock/BoM.html" target="_blank">Bill of Materials</a>
 
 ![Schematic](schematic.jpg "Clock")
 
@@ -14,7 +15,6 @@ A simple digital clock made using DS1307 and Arduino Nano (in < Rs.500/-)
 
 	<img src="https://pa1tech.github.io/DIY-Digital-Clock/media/power.jpg" />
 
-* ### <a href="https://pa1tech.github.io/DIY-Digital-Clock/BoM.html" target="_blank">Bill of Materials</a>
 * ### [Arduino Code](https://github.com/pa1tech/DIY-Digital-Clock/tree/main/Arduino%20Code)
 * ### My GitHub repo - [DIY Digital Clock](https://github.com/pa1tech/DIY-Digital-Clock)
 
