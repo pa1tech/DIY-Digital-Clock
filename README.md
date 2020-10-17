@@ -1,12 +1,19 @@
+---
+title: DIY Digital Clock
+
+---
+
 ## [GitHub repo](https://github.com/pa1tech/DIY-Digital-Clock)
 
+A simple digital clock made using DS1307 and Arduino Nano (in < Rs.500/-)
+
 <figure class="video_container">
-  <video width="320" height="240" controls="true" allowfullscreen="true">
+  <video width="480" height="360" controls="true" allowfullscreen="true">
     <source src="media/video.mp4" type="video/mp4">
   </video>
 </figure>
 
-![Power Supply](media/power.jpg "Power Supply")
+Power Supply: ![Power Supply](media/power.jpg "Power Supply")
 
 ![Clock](media/photo1.jpg "Clock")
 
