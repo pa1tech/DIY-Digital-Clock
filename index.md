@@ -1,16 +1,20 @@
 A simple digital clock made using DS1307 and Arduino Nano (in < Rs.500/-)
 
-## [GitHub repo](https://github.com/pa1tech/DIY-Digital-Clock)
-
 <figure class="video_container">
-  <video width="480" height="360" controls="true" allowfullscreen="true">
+  <video width="640" height="360" controls="true" allowfullscreen="true">
     <source src="media/video.mp4" type="video/mp4">
   </video>
 </figure>
 
-Power Supply: ![Power Supply](media/power.jpg "Power Supply")
+**Schematic:**
+![Schematic](schematic.jpg "Clock")
+[Schematic PDF version](https://github.com/pa1tech/DIY-Digital-Clock/schematic.pdf)
 
-![Clock](media/photo1.jpg "Clock")
+Power Supply: 
+![Power Supply](media/power.jpg "Power Supply")
+
+### [Arduino Code](https://github.com/pa1tech/DIY-Digital-Clock/tree/main/Arduino%20Code)
+### [My GitHub repo](https://github.com/pa1tech/DIY-Digital-Clock)
 
 ### References
 * <a href="https://www.instructables.com/id/DIY-Digital-Clock-With-7-Segment-LED-Display/" target="_blank">DIY Digital Clock - Instructables</a>
