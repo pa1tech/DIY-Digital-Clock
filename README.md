@@ -1,7 +1,7 @@
 ## [GitHub repo](https://github.com/pa1tech/DIY-Digital-Clock)
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true">
+  <video width="320" height="240" controls="true" allowfullscreen="true">
     <source src="media/video.mp4" type="video/mp4">
   </video>
 </figure>
