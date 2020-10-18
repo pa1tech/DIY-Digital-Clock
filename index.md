@@ -1,3 +1,11 @@
+<head>
+	<meta property="twitter:card" content="summary" />
+	<meta property="twitter:title" content="DIY Digital Clock" />
+	<meta property="twitter:image" content="https://pa1tech.github.io/DIY-Digital-Clock/media/photo2.jpg" />
+	<meta property="twitter:site" content="https://pa1tech.github.io/DIY-Digital-Clock/" />	
+	<meta property="twitter:description" content="Simple digital clock in <Rs.500" />
+</head>
+
 A simple digital clock made using DS1307 and Arduino Nano (in < Rs.500/-)
 
 <video muted width="480" height="270" controls="true" allowfullscreen="true">
