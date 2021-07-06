@@ -12,6 +12,7 @@ Capacitive Dropper for AC-DC conversion:
 ![Power Supply](media/power.jpg "Power Supply")
 
 ### [Arduino Code](https://github.com/pa1tech/DIY-Digital-Clock/tree/main/Arduino%20Code)
+### [Micropython for RPi Pico](https://github.com/pa1tech/DIY-Digital-Clock/blob/main/u_python%20Code%20for%20RPi%20Pico)
 
 ### References
 * <a href="https://www.instructables.com/id/DIY-Digital-Clock-With-7-Segment-LED-Display/" target="_blank">DIY Digital Clock - Instructables</a>
